@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClassicalMusicStructure</string>
+    <string name="mozart">Wolfgang Amadeus Mozart</string>
+    <string name="bach">Johann Sebastian Bach</string>
+    <string name="stravinsky">Igor\' Fëdorovič Stravinskij</string>
+    <string name="beethoven">Ludwig Van Beethoven</string>
+</resources>
